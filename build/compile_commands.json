@@ -1,0 +1,7 @@
+[
+{
+  "directory": "c:/Users/kevng/AppData/Roaming/Kodi/addons/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2017\\BUILDT~1\\VC\\Tools\\MSVC\\1416~1.270\\bin\\Hostx64\\x86\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles\\kodi.dir\\main.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\kevng\\AppData\\Roaming\\Kodi\\addons\\main.cpp",
+  "file": "C:/Users/kevng/AppData/Roaming/Kodi/addons/main.cpp"
+}
+]

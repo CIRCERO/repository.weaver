@@ -1,0 +1,21 @@
+{
+	"name": "CIRCERO Repo",
+  "description": "A data collection infrastructure",
+	"keywords": [
+		"repository",
+		"circero"
+	],
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/CIRCERO/repository.circero"
+	},
+	"dependencies": {
+		"dojo": ">=1.8.1"
+	},
+	"ignore": [
+		".*",
+		"tests"
+	],
+	"license": [ "AFL-2.1", "BSD-3-Clause" ],
+	"moduleType": [ "amd" ]
+}
