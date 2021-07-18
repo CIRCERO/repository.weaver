@@ -1,13 +1,13 @@
 {
-	"name": "CIRCERO Repo",
+	"name": "Repository Weaver",
   "description": "A data collection infrastructure",
 	"keywords": [
 		"repository",
-		"circero"
+		"weaver"
 	],
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/CIRCERO/repository.circero"
+		"url": "git://github.com/CIRCERO/repository.weaver"
 	},
 	"dependencies": {
 		"dojo": ">=1.8.1"
